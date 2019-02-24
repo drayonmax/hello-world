@@ -1,2 +1,5 @@
 # hello-world
-solo otro repositorio
+
+Aprender a hacer repositorios
+
+hola que tal
